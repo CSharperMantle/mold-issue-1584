@@ -7,6 +7,8 @@ allows relaxation through a similar process.
 
 LLVM previously suffered from similar problems; see [^0].
 
+- https://github.com/rui314/mold/issues/1584
+
 
 Build and run
 -------------
